@@ -1,0 +1,14 @@
+D:\AdmissionTest\AdmissionTest\Task3\bin\Debug\net9.0\Task3.exe
+D:\AdmissionTest\AdmissionTest\Task3\bin\Debug\net9.0\Task3.deps.json
+D:\AdmissionTest\AdmissionTest\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+D:\AdmissionTest\AdmissionTest\Task3\bin\Debug\net9.0\Task3.dll
+D:\AdmissionTest\AdmissionTest\Task3\bin\Debug\net9.0\Task3.pdb
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.dll
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\refint\Task3.dll
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.pdb
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+D:\AdmissionTest\AdmissionTest\Task3\obj\Debug\net9.0\ref\Task3.dll
